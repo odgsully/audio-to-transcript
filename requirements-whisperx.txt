@@ -1,0 +1,3 @@
+# Install separately from requirements.txt (has torch version conflicts)
+whisperx>=3.8.0
+python-dotenv
